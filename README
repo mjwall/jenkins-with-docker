@@ -1,0 +1,9 @@
+Jenkins with docker
+
+This repo is an attempt to get jenkins running in docker but allow builds in jenkins to use docker.
+
+Link to problem
+
+Explain what is happening
+
+Show a demo
